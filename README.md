@@ -96,16 +96,20 @@ Theis
 
 ##1. Understand the Publishing Process
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+Before you begin the steps in this checklist, you should take a moment to read and understand the overall publishing workflow and become familiar with how the process works. In particular, you or your development team will need to prepare your apps for release using a process common to all Android apps. The Publishing workflow documents provide the details on how publishing works and how to get an APK ready for release.
+
+Once you are familiar with publishing in general, continue reading to understand the issues that you should consider when publishing apps on Google Play.
 
 ###Links
-http://developer.android.com/tools/publishing/publishing_overview.html
-http://developer.android.com/tools/publishing/preparing.html
+http://developer.android.com/distribute/tools/launch-checklist.html
 
 
 ##2. Understand Google Play Policies and Agreements
 
+Make sure that you understand and follow the Google Play program policies that you accepted when registering. Google Play actively enforces the policies and any violations can lead to suspension of your apps or, for repeated violations, termination of your developer account.
+
 ###Links
+http://developer.android.com/distribute/tools/launch-checklist.html
 
 ##3. Test for Quality
 
